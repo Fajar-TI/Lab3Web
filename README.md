@@ -274,28 +274,35 @@ Selector Contoh Menargetkan
 
 Tambahkan tangkapan layar hasil praktikum di sini:
 
-```markdown
 #Bukti Verifikasi
+
 <img width="1365" height="767" alt="SS Configurasi" src="https://github.com/user-attachments/assets/69dfc80a-8aaa-4ee6-a306-36888f7782ee" />
 
 
 <img width="794" height="595" alt="1 1" src="https://github.com/user-attachments/assets/97701b76-31e7-42f7-8ff1-f6a9e8700008" />
+
 <img width="792" height="56" alt="1 1 1" src="https://github.com/user-attachments/assets/b429b4b8-2552-4b97-addf-4f9c3916e775" />
+
 <img width="789" height="537" alt="Screenshot 2026-10-10 223612" src="https://github.com/user-attachments/assets/6aa71cf6-6cc1-4cca-88d2-00faf5c50793" />
+
 <img width="811" height="556" alt="Screenshot 2026-10-10 223658" src="https://github.com/user-attachments/assets/cd874d94-61ac-4a5f-b3e4-1d93143e0d6b" />
+
 <img width="792" height="373" alt="Screenshot 2026-10-10 223715" src="https://github.com/user-attachments/assets/8a072e04-ae9d-4f3e-b5ff-5485e61e2e71" />
 
 
 <img width="1298" height="767" alt="1" src="https://github.com/user-attachments/assets/3c862bc9-ca60-46d8-9c35-114da75e48e3" />
+
 <img width="1365" height="767" alt="2" src="https://github.com/user-attachments/assets/933f9b9b-589a-4631-a4b9-5eb994532a93" />
+
 <img width="1365" height="767" alt="3" src="https://github.com/user-attachments/assets/c09fccda-c621-4f41-a6aa-966e286d95f9" />
+
 <img width="1365" height="767" alt="4" src="https://github.com/user-attachments/assets/9be9db3a-2768-43a9-b702-c487e5d89f63" />
 
 
 #Eksperimen
 <img width="1365" height="767" alt="Eksperimen" src="https://github.com/user-attachments/assets/e9dbdace-2c35-43a2-8096-c4e90d03e936" />
 
-```
+
 
 #Kesimpulan
 
